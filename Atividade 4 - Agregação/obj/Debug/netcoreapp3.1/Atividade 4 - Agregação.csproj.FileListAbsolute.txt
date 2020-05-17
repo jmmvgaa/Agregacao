@@ -1,0 +1,11 @@
+C:\Users\João\Desktop\POO\Atividade 4 - Agregação\Atividade 4 - Agregação\bin\Debug\netcoreapp3.1\Atividade 4 - Agregação.exe
+C:\Users\João\Desktop\POO\Atividade 4 - Agregação\Atividade 4 - Agregação\bin\Debug\netcoreapp3.1\Atividade 4 - Agregação.deps.json
+C:\Users\João\Desktop\POO\Atividade 4 - Agregação\Atividade 4 - Agregação\bin\Debug\netcoreapp3.1\Atividade 4 - Agregação.runtimeconfig.json
+C:\Users\João\Desktop\POO\Atividade 4 - Agregação\Atividade 4 - Agregação\bin\Debug\netcoreapp3.1\Atividade 4 - Agregação.runtimeconfig.dev.json
+C:\Users\João\Desktop\POO\Atividade 4 - Agregação\Atividade 4 - Agregação\bin\Debug\netcoreapp3.1\Atividade 4 - Agregação.dll
+C:\Users\João\Desktop\POO\Atividade 4 - Agregação\Atividade 4 - Agregação\bin\Debug\netcoreapp3.1\Atividade 4 - Agregação.pdb
+C:\Users\João\Desktop\POO\Atividade 4 - Agregação\Atividade 4 - Agregação\obj\Debug\netcoreapp3.1\Atividade 4 - Agregação.csprojAssemblyReference.cache
+C:\Users\João\Desktop\POO\Atividade 4 - Agregação\Atividade 4 - Agregação\obj\Debug\netcoreapp3.1\Atividade 4 - Agregação.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\POO\Atividade 4 - Agregação\Atividade 4 - Agregação\obj\Debug\netcoreapp3.1\Atividade 4 - Agregação.AssemblyInfo.cs
+C:\Users\João\Desktop\POO\Atividade 4 - Agregação\Atividade 4 - Agregação\obj\Debug\netcoreapp3.1\Atividade 4 - Agregação.dll
+C:\Users\João\Desktop\POO\Atividade 4 - Agregação\Atividade 4 - Agregação\obj\Debug\netcoreapp3.1\Atividade 4 - Agregação.pdb
